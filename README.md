@@ -12,9 +12,9 @@ This generates a much more interesting and useful citation graph as it allows th
 
 ```mermaid
 flowchart LR
-Article A -- Cites --> Article B
+	Article A -- Cites --> Article B
 
-Article A -- Cites, Because it used a method in --> Article B
+	Article A -- Cites, Because it used a method in --> Article B
 ```
 
 Things can can be cited frequently because people think they are wrong as well as correct or useful, it would be nice to know why citations happen not just that they happen.
