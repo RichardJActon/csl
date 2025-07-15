@@ -12,9 +12,14 @@ This generates a much more interesting and useful citation graph as it allows th
 
 ```mermaid
 flowchart LR
-	Article A -- Cites --> Article B
-
-	Article A -- Cites, Because it used a method in --> Article B
+  subgraph CiTO
+    direction LR
+    C[Article A] -->|Cites, Because it used a method in| D["Article B"]
+  end
+  subgraph Conventional
+    direction LR
+    A[Article A] -->|Cites| B["Article B"]
+  end
 ```
 
 Things can can be cited frequently because people think they are wrong as well as correct or useful, it would be nice to know why citations happen not just that they happen.
