@@ -11,6 +11,7 @@ The goals was to be able to add 'citation intentions' information to my citation
 This generates a much more interesting and useful citation graph as it allows the edges to be annotated with contextual information:
 
 ```mermaid
+flowchart LR
 Article A -- Cites --> Article B
 
 Article A -- Cites, Because it used a method in --> Article B
