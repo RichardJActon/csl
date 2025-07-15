@@ -25,7 +25,8 @@ WARNING This is an unsupported / unofficial feature of Zotero and citeproc.js an
 It does not appear possible with the [current CSL spec](https://docs.citationstyles.org/en/stable/specification.html) to fully implement something like this.
 
 See: https://www.zotero.org/support/kb/item_types_and_fields#citing_fields_from_extra
-The Zotero style editor checks the XML against the schema and renders a preview
+
+The [Zotero style editor](https://www.zotero.org/support/dev/citation_styles/reference_test_pane) checks the XML against the schema and renders a preview
 See: `Edit > Setings > Cite > Style Editor`
 
 ```
