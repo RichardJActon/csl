@@ -4,7 +4,7 @@
     <title>IEEE cito</title>
     <id>ieee-cito</id>
     <link href="http://www.zotero.org/styles/ieee" rel="template"/>
-    <link href="https://raw.githubusercontent.com/RichardJActon/csl/refs/heads/master/filters/ieee-CiTO.csl" rel="self"/>
+    <link href="https://raw.githubusercontent.com/RichardJActon/csl/refs/heads/master/ieee-CiTO.csl" rel="self"/>
     <!-- <link href="https://ieeeauthorcenter.ieee.org/wp-content/uploads/IEEE-Reference-Guide.pdf" rel="documentation"/> - 2018 guidelines -->
     <link href="http://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE_Reference_Guide.pdf" rel="documentation"/>
     <link href="https://journals.ieeeauthorcenter.ieee.org/your-role-in-article-production/ieee-editorial-style-manual/" rel="documentation"/>
